@@ -7,4 +7,5 @@ public class wave2 {
     // check
     // another
     // try
+    // try2
 }
