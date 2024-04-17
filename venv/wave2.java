@@ -8,4 +8,5 @@ public class wave2 {
     // another
     // try
     // try2
+    // فقغ۳
 }
